@@ -35,7 +35,18 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The sacrifice of thankefulnesse A sermon preached at Pauls Crosse, the third of December, being the 
+
+1. ❧The Titles of the Fiue
+Sermons.
+
+1. ❧To the Right Worshipfull,
+Sir Henry Mountague Knight,
+the Kings Maiesties Serieant for the
+Law, and Recorder of the Honourable
+Citie of London.
+
+1. Ad Lectorem.
+
 **Types of content**
 
   * There are 45 **verse** lines!
